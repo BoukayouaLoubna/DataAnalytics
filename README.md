@@ -30,8 +30,8 @@ Conducted comprehensive data analytics on Uber data, utilizing a diverse set of 
 
 In addition, transformed disorganized data into a structured data warehouse, implementing a refined schema consisting of a fact table and dimensional tables to optimize data organization and accessibility.
 
-![DataModeling](https://github.com/BoukayouaLoubna/DataAnalytics/assets/161256795/a5f9f8c0-6be4-4312-a272-53cd7cfac8c9)
+![DataModeling](https://github.com/BoukayouaLoubna/DataAnalytics/assets/161256795/41e4f3cf-2d63-4030-8303-76e0966de7aa)
 
-### Summray 
+## Summray 
 
 Reflecting on this project, gained valuable experience in data engineering, analytics, and visualization techniques, as well as self-reliance and problem-solving skills essential for effective project execution.
