@@ -1,6 +1,6 @@
 # DataAnalytics
 
-## Introduction 
+## Description
 
 Conducted comprehensive data analytics on Uber data, utilizing a diverse set of tools and technologies to extract valuable insights and optimize decision-making processes.
 
